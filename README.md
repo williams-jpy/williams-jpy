@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi, I'm Williams Nwachi 👋
+
+## AI Developer | Robotics Enthusiast | Python Developer
+
+I build intelligent software that solves real-world problems using artificial intelligence, computer vision, and full-stack development.
+
+My long-term vision is to contribute to the future of healthcare through robotics, AI, and software engineering by creating technologies that improve diagnosis, patient care, and clinical decision-making.
+
+Currently, I'm expanding my skills in machine learning, backend development, computer vision, and robotics while building practical projects that demonstrate these technologies.## Hi there 👋
 
 <!--
 **williams-jpy/williams-jpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
