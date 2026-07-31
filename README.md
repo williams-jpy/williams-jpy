@@ -2,23 +2,104 @@
 
 ## AI Developer | Robotics Enthusiast | Python Developer
 
-I build intelligent software that solves real-world problems using artificial intelligence, computer vision, and full-stack development.
+I'm passionate about building intelligent products that solve real-world problems through artificial intelligence, robotics, and software engineering.
 
-My long-term vision is to contribute to the future of healthcare through robotics, AI, and software engineering by creating technologies that improve diagnosis, patient care, and clinical decision-making.
+My long-term vision is to contribute to the future of healthcare by developing technologies that improve diagnosis, patient care, and clinical decision-making through AI, computer vision, and robotics.
 
-Currently, I'm expanding my skills in machine learning, backend development, computer vision, and robotics while building practical projects that demonstrate these technologies.## Hi there 👋
+---
 
-<!--
-**williams-jpy/williams-jpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Technical Skills
 
-Here are some ideas to get you started:
+### Languages
+- Python
+- JavaScript
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Backend
+- FastAPI
+- REST APIs
+
+### Frontend
+- React.js
+- HTML
+- CSS
+
+### Artificial Intelligence
+- TensorFlow
+- Keras
+- Machine Learning
+- Computer Vision
+
+### Libraries & Tools
+- OpenCV
+- MediaPipe
+- NumPy
+- Pandas
+- Git
+- GitHub
+
+---
+
+# Featured Projects
+
+## 🌽 AgroMaizeVision
+
+An AI-powered maize disease detection platform built with React, FastAPI, TensorFlow, and Hugging Face.
+
+### Highlights
+
+- Disease detection using deep learning
+- REST API with FastAPI
+- React frontend
+- AI model deployment
+- Team Project (Project Lead)
+
+---
+
+## 🚁 Drone Control Suite
+
+A robotics project demonstrating autonomous drone flight, keyboard navigation, and computer vision-based hand gesture control.
+
+### Highlights
+
+- Autonomous missions
+- OpenCV
+- MediaPipe
+- Robotics simulation
+- Human-computer interaction
+
+---
+
+## 📏 Command-Line Unit Converter
+
+A Python command-line application for converting temperature, distance, and weight units with user input validation and error handling.
+
+---
+
+# What I'm Learning
+
+- Robotics Engineering
+- Artificial Intelligence
+- Healthcare Technology
+- Computer Vision
+- Full-Stack Development
+- Backend Engineering
+
+---
+
+# Vision
+
+> **To build intelligent products that solve real-world problems by combining artificial intelligence, robotics, and software engineering, with a mission to transform healthcare through innovative technology.**
+
+---
+
+# Let's Connect
+
+📍 Enugu, Nigeria
+
+GitHub:
+https://github.com/williams-jpy
+
+---
+
+*"Technology has the greatest impact when it improves lives. My goal is to build solutions that make healthcare smarter, more accessible, and more effective."*
